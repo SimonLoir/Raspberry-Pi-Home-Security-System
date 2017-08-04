@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-PQ5NKGH</Machine>
+    <WindowsUser>simon</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>8b3b2000-76dc-11e7-904a-835e7b4fd941</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Apache Cordova Team</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\wamp64\www\security\Application\SmartHome\SmartHome\platforms\windows\build\windows\bld\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>C:\wamp64\www\security\Application\SmartHome\SmartHome\platforms\windows\build\windows\debug\x64\win10\AppX</LayoutDir>
+    <RegisteredManifestChecksum>EF30353DE86CF482770ECCFCDDAB898BFD572F62189DFE9FBD11CCF9C82E42BE</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>io.cordova.myapp4ca386_1.0.0.0_x64__h35559jr9hy9m</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>io.cordova.myapp4ca386_h35559jr9hy9m!io.cordova.myapp4ca386</RegisteredUserModeAppID>
+    <RegisteredPackageID>io.cordova.myapp4ca386</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Apache Cordova Team</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\wamp64\www\security\Application\SmartHome\SmartHome\platforms\windows\build\windows\debug\x64\win10\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-08-01T17:50:08.325</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\wamp64\www\security\Application\SmartHome\SmartHome\platforms\windows\images\SplashScreen.scale-100.png">
+      <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-08-01T17:12:09.768</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp64\www\security\Application\SmartHome\SmartHome\platforms\windows\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-08-01T17:12:09.770</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp64\www\security\Application\SmartHome\SmartHome\platforms\windows\images\Square30x30Logo.scale-100.png">
+      <PackagePath>images\Square30x30Logo.scale-100.png</PackagePath>
+      <Modified>2017-08-01T17:12:09.773</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp64\www\security\Application\SmartHome\SmartHome\platforms\windows\images\Square310x310Logo.scale-100.png">
+      <PackagePath>images\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-08-01T17:12:09.774</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp64\www\security\Application\SmartHome\SmartHome\platforms\windows\images\Square44x44Logo.scale-100.png">
+      <PackagePath>images\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-08-01T17:12:09.775</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp64\www\security\Application\SmartHome\SmartHome\platforms\windows\images\Square70x70Logo.scale-100.png">
+      <PackagePath>images\Square70x70Logo.scale-100.png</PackagePath>
+      <Modified>2017-08-01T17:12:09.778</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp64\www\security\Application\SmartHome\SmartHome\platforms\windows\images\Square71x71Logo.scale-100.png">
+      <PackagePath>images\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-08-01T17:12:09.779</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp64\www\security\Application\SmartHome\SmartHome\platforms\windows\images\StoreLogo.scale-100.png">
+      <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-08-01T17:12:09.781</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp64\www\security\Application\SmartHome\SmartHome\platforms\windows\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-08-01T17:12:09.784</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp64\www\security\Application\SmartHome\SmartHome\platforms\windows\www\images\cordova.png">
+      <PackagePath>www\images\cordova.png</PackagePath>
+      <Modified>2017-08-01T17:12:09.689</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp64\www\security\Application\SmartHome\SmartHome\platforms\windows\www\cordova-js-src\confighelper.js">
+      <PackagePath>www\cordova-js-src\confighelper.js</PackagePath>
+      <Modified>2017-08-01T17:50:07.053</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp64\www\security\Application\SmartHome\SmartHome\platforms\windows\www\cordova-js-src\exec.js">
+      <PackagePath>www\cordova-js-src\exec.js</PackagePath>
+      <Modified>2017-08-01T17:50:07.054</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp64\www\security\Application\SmartHome\SmartHome\platforms\windows\www\cordova-js-src\platform.js">
+      <PackagePath>www\cordova-js-src\platform.js</PackagePath>
+      <Modified>2017-08-01T17:50:07.055</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp64\www\security\Application\SmartHome\SmartHome\platforms\windows\www\cordova-js-src\splashscreen.js">
+      <PackagePath>www\cordova-js-src\splashscreen.js</PackagePath>
+      <Modified>2017-08-01T17:50:07.075</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp64\www\security\Application\SmartHome\SmartHome\platforms\windows\www\cordova.js">
+      <PackagePath>www\cordova.js</PackagePath>
+      <Modified>2017-08-01T17:12:09.685</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp64\www\security\Application\SmartHome\SmartHome\platforms\windows\www\cordova_plugins.js">
+      <PackagePath>www\cordova_plugins.js</PackagePath>
+      <Modified>2017-08-01T17:50:07.076</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp64\www\security\Application\SmartHome\SmartHome\platforms\windows\www\scripts\extjs.js">
+      <PackagePath>www\scripts\extjs.js</PackagePath>
+      <Modified>2017-08-01T17:50:07.100</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp64\www\security\Application\SmartHome\SmartHome\platforms\windows\www\scripts\index.js">
+      <PackagePath>www\scripts\index.js</PackagePath>
+      <Modified>2017-08-01T17:48:59.162</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp64\www\security\Application\SmartHome\SmartHome\platforms\windows\www\scripts\platformOverrides.js">
+      <PackagePath>www\scripts\platformOverrides.js</PackagePath>
+      <Modified>2017-08-01T17:12:09.716</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp64\www\security\Application\SmartHome\SmartHome\platforms\windows\www\scripts\winstore-jscompat.js">
+      <PackagePath>www\scripts\winstore-jscompat.js</PackagePath>
+      <Modified>2017-08-01T17:12:09.724</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp64\www\security\Application\SmartHome\SmartHome\platforms\windows\www\WinJS\js\base.js">
+      <PackagePath>www\WinJS\js\base.js</PackagePath>
+      <Modified>2017-08-01T17:12:09.628</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp64\www\security\Application\SmartHome\SmartHome\platforms\windows\www\css\index.css">
+      <PackagePath>www\css\index.css</PackagePath>
+      <Modified>2017-08-01T17:50:07.077</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp64\www\security\Application\SmartHome\SmartHome\platforms\windows\www\css\splashscreen.css">
+      <PackagePath>www\css\splashscreen.css</PackagePath>
+      <Modified>2017-08-01T17:12:09.687</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp64\www\security\Application\SmartHome\SmartHome\platforms\windows\www\index.html">
+      <PackagePath>www\index.html</PackagePath>
+      <Modified>2017-08-01T17:12:09.694</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp64\www\security\Application\SmartHome\SmartHome\platforms\windows\config.xml">
+      <PackagePath>config.xml</PackagePath>
+      <Modified>2017-08-01T17:50:06.980</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp64\www\security\Application\SmartHome\SmartHome\platforms\windows\build\windows\debug\x64\win10\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-08-01T17:50:08.248</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
